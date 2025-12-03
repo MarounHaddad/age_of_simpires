@@ -11,5 +11,7 @@
 //the strings you wish to modify into this file, and do not
 //delete them from the original file.
 
-
+500000 "Maintenance"
+500001 "Build Maintenance"
+500002 "Build <b>Maintenance<b> (<cost>)\nUsed to repair and maintain buildings.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 
