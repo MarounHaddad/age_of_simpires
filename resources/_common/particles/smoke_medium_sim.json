@@ -1,0 +1,14 @@
+{
+	"AtlasFile": "textures\\smoke_medium\\smoke_medium.png",
+	"ImageFirst": 0,
+	"ImageCount": 60,
+	"Type": "Loop",
+	"Layer": "Terrain",
+	"Duration": 6,
+	"Scale": 1.2,
+	"Alpha": 1,
+	"StartDelay": 0,
+	"StartDuration": 1.0,
+	"SortBias": 100,
+	"DisplayLevel": "High"
+}

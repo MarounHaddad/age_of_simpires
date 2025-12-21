@@ -1,0 +1,12 @@
+{
+	"AtlasImagesRaw": {
+			"Format": "textures\\smoke\\smoke_hit\\smoke_hit_%02d.png",
+			"First": 1,
+			"Last": 40
+	},
+	"Type": "Loop",
+	"Duration": 1.5,
+	"Scale": 0.5,
+	"Alpha": 0.75,
+	"StopMode": "Complete"
+}

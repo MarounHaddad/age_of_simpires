@@ -15,3 +15,6 @@
 500001 "Build Maintenance"
 500002 "Build <b>Maintenance<b> (<cost>)\nUsed to repair and maintain buildings.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 500003 "Houses Eye Candy"
+500004 "Guards Station"
+500005 "Build Guards Station"
+500006 "Build <b>Guards Station<b> (<cost>)\nUsed to maintain order and prevent outlaws.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
