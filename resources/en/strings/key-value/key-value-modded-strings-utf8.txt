@@ -39,3 +39,7 @@
 500025 "Beautification Selector"
 500026 "Place Beautification Selector"
 500027 "Place <b>Beautification Selector<b> (<cost>)\nAllows adding beautification such as statues and gardens\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500028 "Moat"
+500029 "Dig a Moat"
+500030 "Dig a <b>Moat<b> (<cost>)\nDecreases the speed of people and siege crossing it.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500031 "Rubble 1 x 1 (No Decay)"
