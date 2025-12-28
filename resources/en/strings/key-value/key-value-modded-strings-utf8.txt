@@ -48,4 +48,7 @@
 500034 "Place <b>Barricades<b> (<cost>)\nDecreases the speed of units crossing it and yields damage to them.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 500035 "Impaled Prisoner"
 500036 "Impale Prisoner"
-500037 "Impale <b>Prisoner<b> (<cost>)\nDecreases the attack speed of nearby units.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500037 "Impale <b>Prisoner<b> (<cost>)\nDecreases the attack speed of nearby units. Requires 1 kill.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500038 "Military Camp"
+500039 "Set up Military Camp"
+500040 "Set up <b>Military Camp<b> (<cost>)\nTemporary structure. Heals nearby units.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
