@@ -55,7 +55,7 @@
 500041 "Tax Collector Official"
 500042 "Train Tax Collector Official"
 500043 "Hire <b>Tax Collector Official<b> (<cost>)\nCollects taxes from houses and deposits them in town center. Can only operate within a range of a Tax Collector.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
-500044 "Deseased House"
+500044 "Diseased House"
 500045 "Healed House"
 500046 "Healer"
 500047 "Train Healer"
