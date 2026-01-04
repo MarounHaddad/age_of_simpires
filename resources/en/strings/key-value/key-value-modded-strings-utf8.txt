@@ -60,3 +60,4 @@
 500046 "Healer"
 500047 "Train Healer"
 500048 "Train <b>Healer<b> (<cost>)\nHeals units. Cannot convert enemy units or pick up relics.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500049 "House Health Setup"
