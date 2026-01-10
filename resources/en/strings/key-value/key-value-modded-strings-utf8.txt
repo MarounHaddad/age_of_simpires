@@ -70,3 +70,6 @@
 500056 "Guard"
 500057 "Train Guard"
 500058 "Train <b>Guard<b> (<cost>)\nFights Criminals. Cannot attack enemy units.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500059 "Military Academy"
+500060 "Build Military Academy"
+500061 "Build <b>Military Academy<b> (<cost>)\nTrains generals and provides supply carts.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
