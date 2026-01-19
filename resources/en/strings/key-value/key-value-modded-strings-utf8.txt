@@ -80,3 +80,6 @@
 500066 "Build Siege Onager Poison"
 500067 "Build <b>Siege Onager Poison<b> (<cost>)\nSiege Weapon that catapults a dead cow that poisons all nearby units.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 500068 "Poison Cow"
+500069 "Manor"
+500070 "Build Manor"
+500071 "Build <b>Manor<b> (<cost>)\nHousing unit that enables training knights and unique units\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
