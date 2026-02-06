@@ -89,3 +89,6 @@
 500075 "Diseased Manor"
 500076 "Healed Manor"
 500077 "Manor Health Setup"
+500078 "Menu Selector"
+500079 "Add Menu Selector"
+500080 "Add <b>Menu Selector<b> (<cost>)\nSwitch between menus for the builder, standard, governance, military, wonder, and beautification.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
