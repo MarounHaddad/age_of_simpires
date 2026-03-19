@@ -101,3 +101,9 @@
 500087 "Menu Selector"
 500088 "Add Menu Selector"
 500089 "Add <b>Menu Selector<b> (<cost>)\nSwitch between menus for the builder, standard, governance, military, wonder, and beautification.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500090 "Enable Main Menu"
+500091 "Enable Goverment Menu"
+500092 "Enable Military Structure Menu"
+500093 "Enable Wonders Menu"
+500094 "Enable Beautification Menu"
+
