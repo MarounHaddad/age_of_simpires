@@ -106,4 +106,5 @@
 500092 "Enable Military Structure Menu"
 500093 "Enable Wonders Menu"
 500094 "Enable Beautification Menu"
-
+500095 "Beautification Medium Garden"
+500096 "Plant <b>Medium Garden<b> (<cost>)\nBeautification medium size garden.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
