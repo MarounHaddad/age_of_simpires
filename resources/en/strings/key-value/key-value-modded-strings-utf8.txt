@@ -108,3 +108,6 @@
 500094 "Enable Beautification Menu"
 500095 "Medium Garden"
 500096 "Plant <b>Medium Garden<b> (<cost>)\nBeautification medium size garden.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500097 "Large Fort"
+500098 "Build <b>Large Fort<b> (<cost>)\nLarge Fort the size of a wonder.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500099 "Deploy <b>Emperor In Litter<b> (<cost>)\nBoosts the work rate of nearby citizens.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"

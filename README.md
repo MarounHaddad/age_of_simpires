@@ -5,6 +5,12 @@ The mod adds more emphasis on building and expanding the city. For that end, the
 
 The mod also introduces a small cast system for training the unique units as well as new military structures and concepts such as buildings that cost food, temporary buildings, and structures that cost `unit kills`.
 
+New buildings were added with graphics for the different architecture with a standardized generic destruction animation.
+
+A new menu mechanic enables extending the villager menu to include the new structures as well as enabling some of the `In Editor` only buildings.
+
+⚠️*The mod was lightly tested and most probably introduces some unintended behavior or even bugs to the base game*
+
 [TOC]
 
 ## 🏴 Menu Selector
@@ -260,16 +266,26 @@ This is a siege onager that launches a `Dead Cow` as a projectile. The dead cow 
 Different civilizations can build unique castles currently only available in the Editor.
 
 **Fortress**
-*Cost: 600 Wood 600 Stone*
+*Cost: 200 Wood 400 Stone*
 *Available for: Western European Civs*
 
 **Wooden Fort**
-*Cost: 300 Wood 500 Stone*
-*Available for: East Asian, South East Asian, Meso Civs, Andes Civs*
+*Cost: 400 Wood 200 Stone*
+*Available for: Meso Civs, Andes Civs*
 
 **Poenari Castle**
-*Cost: 1200 Stone*
+*Cost: 1000 Stone*
 *Available for: South European Civs, Slavic Civs, Eastern European Civs*
+
+**Large Fort(New Building)**
+**Cost: 1000 Stone**
+*Available for: Oriental Civs, Indian Civs, Central Asian Civs, African Civs, Byzantines*
+
+#### 👑Emperor In Litter
+**Cost: 100 Gold** 
+
+Can be trained in the Fortress/Poenari Castle/Large Fort/Woodend Fort. One unit can be trained per Fort.
+The unit boosts the work rate of nearby units.
 
 ### 🕳️Moat
 *Cost: 5 Wood 5 Stone*
