@@ -284,7 +284,7 @@ Different civilizations can build unique castles currently only available in the
 #### 👑Emperor In Litter
 **Cost: 100 Gold** 
 
-Can be trained in the Fortress/Poenari Castle/Large Fort/Woodend Fort. One unit can be trained per Fort.
+Can be trained in the Fortress/Poenari Castle/Large Fort/Wooden Fort. One unit can be trained per Fort.
 The unit boosts the work rate of nearby units.
 
 ### 🕳️Moat
