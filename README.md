@@ -3,11 +3,11 @@ A data mod for Age of Empires 2 Definitive Edition that attempts to add city bui
 
 The mod adds more emphasis on building and expanding the city. For that end, the house population capacity was dropped to 2 pop per house. New building maintenance mechanic, as well as health and crime management, force the player to lay the city in a more structured and thoughtful way.
 
-The mod also introduces a small cast system for training the unique units as well as new military structures and concepts such as buildings that cost food, temporary buildings, and structures that cost `unit kills`.
+The mod also introduces a small cast system for training the unique units as well as new military structures and concepts such as buildings that cost food, temporary buildings, and structures that cost "unit kills".
 
 New buildings were added with graphics for the different architecture with a standardized generic destruction animation.
 
-A new menu mechanic enables extending the villager menu to include the new structures as well as enabling some of the `In Editor` only buildings.
+A new menu mechanic enables extending the villager menu to include the new structures as well as enabling some of the "In Editor" only buildings.
 
 ⚠️*The mod was lightly tested and most probably introduces some unintended behavior or even bugs to the base game*
 
@@ -17,6 +17,7 @@ A new menu mechanic enables extending the villager menu to include the new struc
 
 The player can place a "Menu Selector" that will allow them to switch between multiple different menus to build different types of structures:
 
+- Main Menu (original menu)
 - Governance
 - Military Structures
 - Wonders
@@ -90,9 +91,15 @@ The `Apothecary Shop` will heal all nearby houses (in a range of "7 tiles") and 
 #### 👨‍⚕️Healer
 *Cost: 100 Food*
 
-The `Apothecary Shop` allows the player to train `Healers`. 
+The `Apothecary Shop` allows the player to train `Healers`.
 
 A `Healer` is a citizen unit that can only heal nearby citizens. It is similar to a priest, however, it can only heal other units. It cannot convert enemy units.
+
+The healer can perform the same effect as the `Apothecary Shop` and reduce the risk of disease for the nearby houses.
+
+The healer can be used around `Manors` as well.
+
+You can set it to patrol the streets for protection.
 
 ### 🛡️Guards Station
 *Cost: 50 wood*
@@ -117,6 +124,10 @@ The `Guards Station` will serve all nearby houses within a range of "8 tiles"
 The `Guards Station` allows the player to train a `Guard`.
 
 The guard is a cheap unit that can only fight criminals. It cannot be used against other military units.
+
+The guard can perform the same effect as the `Guard Station` and reduce the risk of spawning criminals for the nearby houses. 
+
+The guard can be used around `Manors` as well.
 
 You can set it to patrol the streets for protection.
 
@@ -151,7 +162,7 @@ Generates `Food` passively. Around 1 Food per 5 seconds (in game time).
 
 ### 🏡Manor
 *Cost: 110 wood*
-*Provides: 5 Population*
+*Provides: 4 Population*
 
 The `Manor` is a housing unit that enables the player to train the Castle unique units as well as the units in the knight line.
 
