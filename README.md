@@ -84,7 +84,7 @@ The diseased house will recover again after a period (the recovery time is also 
 
 To prevent the houses from getting diseased, and to quickly recover diseased houses, the player can place an `Apothecary Shop` in the vicinity of the house.
 
-The `Apothecary Shop` will heal all nearby houses (in a range of "7 tiles") and prevent them from getting diseased.
+The `Apothecary Shop` will heal all nearby houses/manors (in a range of "7 tiles") and prevent them from getting diseased.
 
 > The range of the Apothecary Shop should cover the lower corner of the house for the healing to take affect, otherwise, even if the house is within the range but its lower corner is not covered, the house can still get diseased.
 
@@ -114,7 +114,7 @@ Once the health bar is depleted, the house will spawn a criminal. The criminal w
 
 To prevent the houses from spawning criminals, the player can place a `Guards Stations` in the vicinity of the house.
 
-The `Guards Station` will serve all nearby houses within a range of "8 tiles"
+The `Guards Station` will serve all nearby houses/manors within a range of "8 tiles"
 
 > The range of the Guards Station should cover the lower corner of the house for the healing to take affect, otherwise, even if the house is within the range but its lower corner is not covered, the house can still spawn a criminal.
 
@@ -168,7 +168,9 @@ The `Manor` is a housing unit that enables the player to train the Castle unique
 
 This unique units requirement for a manor is enabled when the `Menu Selector` flag is placed!
 
-The `Manor` also requires maintenance as well as health and crime management. However, to prevent the `Manor` from getting diseased, the player has to build a `university` in its vicinity. Furthermore, to prevent the `Manor` from spawning a criminal, the player has to build a `Monastery\Fortified Church` in its vicinity.
+The `Manor` also requires maintenance as well as health and crime management.
+
+To prevent the `Manor` from getting diseased, the player has to build an `Apothecary Shop` or a `University` in its vicinity. Furthermore, to prevent the `Manor` from spawning a criminal, the player has to build a `Guard Stations` or a `Monastery\Fortified Church` in its vicinity.
 
 - The `university` will serve all nearby manors within a range of "8 tiles" 
 - The `Monastery` will serve all nearby manors within a range of "7 tiles" 
@@ -410,9 +412,16 @@ The beautification menu allows the player to build structures that embellish the
 - ⛲**Fountains**
 - 💐**Gardens** New structure that is unique per architecture set with 14 different graphics each.
 
+### 🏺Houses Eye Candy
+Houses spawn eye candy on the lower corner that are specific to each civilization architecture.
+
 ## ‼️ Known Issues
 - The houses when destroyed or deleted are not decaying completely and remain on the map. This keeps the visibility enabled for the player even after the house is destroyed. Most probably caused by the objects that enable the health and crime effects.
 
 - For the houses to spawn criminals the relic and monk carrying relic had to be altered which eliminated the relic from the game. Now criminals will spawn across the map where relics used to spawn.
 
 - The new structures and buildings enabled by the mod are not age bound. The player can build advanced structures like the fortresses and the fortified towers even in Dark Age.
+
+- The Huns only have one house architecture (castle age houses) that have 20 tax and 5 pop to make up for removing the max population effect.
+
+- The houses eye candy can prevent the houses from being built if the eye candy location is blocked by another object.
