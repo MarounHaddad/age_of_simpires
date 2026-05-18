@@ -121,3 +121,8 @@
 500107 "Plaza Rubble"
 500108 "Build <b>Fortified Tower<b> (<cost>)\nHero tower that heals itself and has extra range.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 500109 "Build <b>Trade Workshop<b> (<cost>)\nGenerates passive food income. One building allowed per Town Center\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500110 "Build <b>Sea Tower<b> (<cost>)\nA tower that is buildable on water. You can build it using fishing ships or other sea structures like walls.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500111 "Build <b>Sea Wall<b> (<cost>)\nA wall that is buildable on water. You can build it using fishing ships or other sea structures like other walls.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500112 "Build <b>Sea Gate<b> (<cost>)\nA gate that is buildable on water. You can build it using fishing ships or other sea structures like walls. Use the CTRL button to rotate the gate.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500113 "Sea Castle"
+500114 "Build <b>Sea Castle<b> (<cost>)\nA castle that is buildable on water.You can build it using fishing ships. Available only after Castle Age.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
