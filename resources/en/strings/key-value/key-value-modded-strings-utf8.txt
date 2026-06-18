@@ -126,3 +126,5 @@
 500112 "Build <b>Sea Gate<b> (<cost>)\nA gate that is buildable on water. You can build it using fishing ships or other sea structures like walls. Use the CTRL button to rotate the gate.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
 500113 "Sea Castle"
 500114 "Build <b>Sea Castle<b> (<cost>)\nA castle that is buildable on water.You can build it using fishing ships. Available only after Castle Age.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
+500115 "Large Port"
+500116 "Build <b>Large Port<b> (<cost>)\nA large dock that increases the gold rate of trade ships depositing gold in a dock near it. Shoots Arrows like a castle and allows garrisoning of a large number of fishing ships.\n<GREY><i>Upgrades: None.<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range> <garrison>"
